@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myCoverage.iml" filepath="$PROJECT_DIR$/.idea/modules/myCoverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myCoverage.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myCoverage.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myCoverage.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myCoverage.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myCoverage.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myCoverage.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myCoverage.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myCoverage.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

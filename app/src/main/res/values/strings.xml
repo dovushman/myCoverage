@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myCoverage</string>
+
+    <string name="add_trip">Add Trip</string>
+    <string name="trip_steps">Trip Steps</string>
+    <string name="trip_location">Trip Location</string>
+    <string name="trip_date">Trip Date</string>
+    <string name="done_button">Done</string>
+
+    <string name="steps">%s</string>
+    <string name="location">%s</string>
+    <string name="date">%s</string>
+</resources>
