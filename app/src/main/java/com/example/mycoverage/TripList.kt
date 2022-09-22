@@ -4,12 +4,12 @@ package com.example.mycoverage
  * returns the initial set of Homework
  * useful for initialize the RecyclerView.Adapter
  */
-//fun getTripList(): List<Trip> {
+fun getTripList(): List<Trip> {
 //
 //    var steps: String
 //    var location: String
 //    var date: String
-//    val trip = ArrayList<Trip>()
+    val trip = ArrayList<Trip>()
 //
 //    for (i in 1..20){
 //
@@ -23,5 +23,5 @@ package com.example.mycoverage
 //        )
 //    }
 //
-//    return trip
-//}
+    return trip
+}
